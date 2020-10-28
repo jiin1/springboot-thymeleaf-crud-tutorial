@@ -1,5 +1,5 @@
-# springboot-thymeleaf-crud
-Spring boot 2 + Thymeleaf + Docker + Maven + Swagger CRUD-приложение
+# springboot-thymeleaf-REST-crud
+Spring boot 2 + Thymeleaf + REST + Docker + Maven + Swagger CRUD-приложение
 + PostgreSQL
 + Hibernate
 
